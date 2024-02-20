@@ -1,1 +1,3 @@
-# Interactive Directory List
+# List Interactive
+
+`lsi`: List a directory interactively.
